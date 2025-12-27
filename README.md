@@ -62,12 +62,3 @@
     * "In Use"는 실무/프로젝트에서 자주 사용한 기술, "Studying"는 학습 및 실험 적용 중인 기술입니다.
   </div>
 </div>
-
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhm0215&show_icons=true&theme=radical" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhm0215&layout=compact&theme=radical" />
-</div>
