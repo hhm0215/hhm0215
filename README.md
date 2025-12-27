@@ -63,7 +63,11 @@
   </div>
 </div>
 
-<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhm0215&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhm0215&layout=compact&theme=radical)
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hhm0215&show_icons=true&theme=radical" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhm0215&layout=compact&theme=radical" />
+</div>
