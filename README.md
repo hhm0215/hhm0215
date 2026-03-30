@@ -69,6 +69,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhm0215&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhm0215&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=hhm0215" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhm0215&theme=github-light" alt="Activity Graph"/>
 </div>
