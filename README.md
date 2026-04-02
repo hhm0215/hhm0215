@@ -1,11 +1,12 @@
 <div align="center">
 
-  # 안녕하세요, 백엔드 개발자 한혜민입니다. 👋
+# 안녕하세요, 풀스택 개발자 한혜민입니다. 👋
 
-  <p>
-    백엔드를 중심으로 개발하면서, AI 개발도 꾸준히 학습하고 적용해보는 중입니다.<br/>
-    꾸준히 성장하는 개발자를 목표로, 오늘도 한 줄씩 나아가고 있습니다.
-  </p>
+<p>
+  백엔드부터 프론트엔드까지 아우르는 풀스택 개발자로,<br/>
+  AI 기술을 실무에 접목하는 데 깊은 관심을 가지고 있습니다.<br/>
+  탄탄한 백엔드 기반 위에서 전체 흐름을 이해하며 개발합니다.
+</p>
 
 </div>
 
@@ -71,7 +72,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hhm0215" alt="GitHub Streak"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhm0215&theme=github-light" alt="Activity Graph"/>
 </div>
